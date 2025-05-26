@@ -1,0 +1,5 @@
+# System dependencies:
+# - ffmpeg (includes ffprobe)
+#   - Ubuntu/Debian: sudo apt install ffmpeg
+#   - macOS: brew install ffmpeg  
+#   - Windows: Download from https://ffmpeg.org/download.html

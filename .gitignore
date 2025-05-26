@@ -1,0 +1,7 @@
+.env
+
+mp4_files/*
+!mp4_files/.gitkeep
+
+mp4_files_cleaned/*
+!mp4_files_cleaned/.gitkeep
